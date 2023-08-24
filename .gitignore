@@ -1,0 +1,43 @@
+# Arquivos gerados pela compilação
+*.class
+*.o
+*.dll
+
+# Pastas de saída de compilação
+build/
+dist/
+out/
+
+# Dependências e ambiente virtual
+node_modules/
+venv/
+.env
+.webscra
+/webscra
+webscra/
+
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Configurações de IDEs
+.vscode/
+.idea/
+
+# Arquivos sensíveis
+secrets.yml
+api_key.txt
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp
+
+# Arquivos de log
+*.log
+*.log.*
+
+# Arquivos de cache
+.cache/
+.tmp/
