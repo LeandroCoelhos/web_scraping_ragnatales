@@ -2,7 +2,7 @@
 *.class
 *.o
 *.dll
-
+*.exe
 # Pastas de saída de compilação
 build/
 dist/
